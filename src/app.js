@@ -5,7 +5,7 @@ import cartRouter from '../src/routes/Cart.router.js'
 
 
 const app = express()
-const port = 5000;
+const port = 8080;
 
 
 //middlewears

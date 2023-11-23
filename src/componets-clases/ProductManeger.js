@@ -73,38 +73,3 @@ export default class ProductManeger {
     }
 
 }
-
-
-// const productos = new ProductManeger()
-
-// productos.addProduct('Producto A', 'Descripción A', 21.99, 'thumbnail1.jpg', 'Atf321', 13)
-// productos.addProduct('Producto B', 'Descripción B', 55.99, 'thumbnail2.jpg', 'RET456', 825);
-// productos.addProduct('Producto c', 'Descripción c', 155.99, 'thumbnail3.jpg', 'AET456', 925);
-// productos.addProduct('Producto d', 'Descripción d', 255.99, 'thumbnail4.jpg', 'BET456', 7825);
-// productos.addProduct('Producto e', 'Descripción e', 535.99, 'thumbnail5.jpg', 'RDET456', 5625);
-// productos.addProduct('Producto f', 'Descripción f', 545.99, 'thumbnail6.jpg', 'HIET456', 425);
-// productos.addProduct('Producto g', 'Descripción g', 556.99, 'thumbnail7.jpg', 'FDT456', 125);
-// productos.addProduct('Producto h', 'Descripción h', 553.99, 'thumbnail8.jpg', 'JET456', 3225);
-// productos.addProduct('Producto i', 'Descripción i', 555.99, 'thumbnail9.jpg', 'GET456', 525);
-// productos.addProduct('Producto j', 'Descripción j', 556.99, 'thumbnail10.jpg', 'REDST456', 425);
-// productos.addProduct('Producto k', 'Descripción k', 505.99, 'thumbnail11.jpg', 'IET456', 325);
-
-
-// productos.getProduct()
-
-// productos.getProductById(1)
-
-// productos.deleteProductById(2)
-
-//  productos.UpdateProduct({
-//     title: 'Producto c',
-//     description: 'Descripción c',
-//     price: 155.39,
-//     thumbnail: 'thumbnailc.jpg',
-//     code: 'RET567',
-//     stock: 25,
-//     id: 3
-//  })
-
-
-
